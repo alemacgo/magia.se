@@ -94,22 +94,63 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.wrapper {
+  max-width: 750px;
+  margin: 0 auto;
+}
 
+html,body {
+    background-color: #fefefe;
+}
 
+body {
+    font-family: 'Quattrocento Sans', sans-serif;
+    padding: 20px;
+    font-size: 1.2em;
+}
 
+h1,h2 {
+    font-family: 'Quattrocento', serif;
+}
 
+h2 {
+    font-size: 1.3em;
+}
 
+footer {
+    margin-top: 50px;
+}
 
+i {
+    padding-right: 10px;
+}
 
+a i {
+    color: #000;
+}
 
+/* Circles after links. */
+p a {
+    text-decoration: none;
+    color: inherit;
+}
 
+/* Thanks to practicaltypography.com. This is brilliant! */
+p a:after {
+  position: relative;
+  content: "\FEFF°";
+  margin-left: -0.2em;
+  font-size: 90%;
+  color: #888;
+}
 
+p a:hover {
+    background-color: #d8eafb;
+}
 
-
-
-
-
-
+footer {
+    padding-bottom: 20px;
+}
 
 /* ==========================================================================
    Helper classes
