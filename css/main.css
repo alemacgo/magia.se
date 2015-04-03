@@ -109,16 +109,12 @@ body {
     font-size: 1.2em;
 }
 
-h1,h2 {
+h1,h2,h3 {
     font-family: 'Quattrocento', serif;
 }
 
 h2 {
     font-size: 1.3em;
-}
-
-footer {
-    margin-top: 50px;
 }
 
 i {
@@ -150,6 +146,11 @@ p a:hover {
 
 footer {
     padding-bottom: 20px;
+}
+
+img {
+    max-width: 100%;
+    margin-bottom: 30px;
 }
 
 /* ==========================================================================
