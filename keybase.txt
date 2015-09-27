@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/alemacgo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://magia.se
+  * I am alemacgo (https://keybase.io/alemacgo) on keybase.
+  * I have a public key with fingerprint 9050 C780 311C E7C6 4D7C  20B8 C741 3E89 57F2 5528
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010134faf341b2833fdf5fe52236419131b534cf86166f24a8e237b3203ef46fcc8f0a",
+            "fingerprint": "9050c780311ce7c64d7c20b8c7413e8957f25528",
+            "host": "keybase.io",
+            "key_id": "c7413e8957f25528",
+            "kid": "010134faf341b2833fdf5fe52236419131b534cf86166f24a8e237b3203ef46fcc8f0a",
+            "uid": "c5aaeb5dbceb399cd4578f61e2609c00",
+            "username": "alemacgo"
+        },
+        "service": {
+            "hostname": "magia.se",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1443394675,
+    "expire_in": 157680000,
+    "prev": "351183194c567036d49321248d561723ddc69cb2e3f44d3a9906af0a63731448",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.46
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBRRGF4vmdpFpagwwpjQrLVtzpwzZ2YWulh0Qesh8vJQscycObM7
+7Lqz7sxuiRhkUVFGN7CkAilIgh4sCDIITCSMpCSjIjXRQNMseokKozpj9dZj5+Vw
+fr7b+fi756V5slP6v4y8z50rV6U8fnAu4anKdOx6TrP0Os5fz4XpzEUjOrWdQNjU
+OT/HAx5AZKgGREATZAgN3RANKgoCxAgoAAJNhIgYMgYYGwJSZSpASYMCD6mBsEGI
+bPAqV8IZZjRI47G4GXWYrMKLPJFkHgJAqEQw0iUi8JpMJAQglRVRMgRRFGRGDFm2
+y2DhNNWmPtNiM/YIzMT7B/4/50789hFVlWqirhGqQUUhOhIl2cCACphXCM+7QJvG
+o2oNZWg1QmtUErS4hhKOTZMmoW6x7k/+IGrUoKn6bMp4sbjlWMSKsGnIcWJ+l+TU
+xVzUfqoF/vADmhnVWYWMkKRx27SinB8wJHFMVxAgBKGCsCSWcPRAzIzTgOkiRAnL
+PDuuDU0ySSgCIEOgICJiiYdYRwoUgIBkXcRAEqCuE6wQTaDQQEiHqqLwWGVNYChB
+ZuIWbNPaqMX5IYupBpmkbQajqpOIU66hq3Nvuicl25MxK9VdLU92Vu7fhduxYPbP
+RGl/84ud4Tn3a8eNwfwi4WRLxu0rH3oj3qXa6+3PIhcaz0y3FZ6v3E2qvetflt4r
+HBs+PVp+aGL6eWbjRDO5lnG59eKxiu2tTa1Hv2bIgY9v1ZPFk2vbxp52bz04emHf
+kVvTqw7UNRTNDa3IevNwuLcv7eqyZOW28+17ikfGh8wnXGtTk9c3J+fu5ORS0pLS
+8aPu8PFX6biyf/6jUx2hQGZz6obyb5WrF7dfSnYuv+MLblnZUD3sKdhYsTC0Ki9Y
+UHZikZXoymm5zn8+VPZuTf9UX260dOr70JLOTZvSd9WGz94cUNryt1bd77HC9fGc
+zT2DHXmfRqR1VUbf+I0N7VMDXvsXaxU4pw==
+=lewc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alemacgo
+
+==================================================================
